@@ -3,6 +3,7 @@
 A powerful application that allows you to ask questions about YouTube video transcripts using AI-powered Retrieval-Augmented Generation (RAG). The system extracts transcripts from YouTube videos, processes them using embeddings, and enables semantic search to answer questions based on the video content.
 
 ![Application Screenshot](images/image1.png)
+![](images/image2.png)
 
 ## Features
 
@@ -41,8 +42,6 @@ GROQ_API_KEY=your_groq_api_key_here
 ## Usage
 
 ### Streamlit Web Interface (Recommended)
-
-![Streamlit UI](images/image2.png)
 
 Run the Streamlit app:
 ```bash
